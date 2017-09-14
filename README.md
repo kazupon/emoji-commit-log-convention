@@ -109,6 +109,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :rocket:                   | `:rocket:`                   | `release`          | **deploy** to production enviroment |
 | :back:                     | `:back:`                     | `revert`           | **revert** commiting |
 | :construction:             | `:construction:`             | `wip`              | **WIP** commiting |
+| :twisted_rightwards_arrows:| `:twisted_rightwards_arrows:`| -                  | merge **conflict resolution** |
 | :heavy_plus_sign:          | `:heavy_plus_sign:`          | -                  | **add** files, dependencies, ... |
 | :heavy_minus_sign:         | `:heavy_minus_sign:`         | -                  | **remove** files, dependencies, ... |
 | :on:                       | `:on:`                       | -                  | **enable** feature and something ... |
