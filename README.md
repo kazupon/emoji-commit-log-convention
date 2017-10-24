@@ -104,7 +104,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :package:                  | `:package:`                  | `build`            | **packaging** or **bundling** or **building** |
 | :hatching_chick:           | `:hatching_chick:`           | `release`          | **initial** commit |
 | :confetti_ball:            | `:confetti_ball:`            | `release`          | release **major** version |
-| :tada:                     | `:tada:`                     | `release`          | release **minior** version |
+| :tada:                     | `:tada:`                     | `release`          | release **minor** version |
 | :sparkles:                 | `:sparkles:`                 | `release`          | release **patch** version |
 | :rocket:                   | `:rocket:`                   | `release`          | **deploy** to production enviroment |
 | :back:                     | `:back:`                     | `revert`           | **revert** commiting |
