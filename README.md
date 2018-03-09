@@ -95,7 +95,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :white_check_mark:         | `:white_check_mark:`         | `test`             | add **tests** |
 | :green_heart:              | `:green_heart:`              | `test`             | fix **tests** failur or **CI** building |
 | :pencil:                   | `:pencil:`                   | `docs`             | update **documentation** |
-| :copyright:                | `:license:`                  | `docs`             | decide or change **license** |
+| :copyright:                | `:copyright:`                | `docs`             | decide or change **license** |
 | :lollipop:                 | `:lollipop:`                 | `examples`         | for **example** codes |
 | :arrow_up:                 | `:arrow_up:`                 | `dependency`       | upgrade **dependencies** |
 | :arrow_down:               | `:arrow_down:`               | `dependency`       | downgrade **dependencies** |
