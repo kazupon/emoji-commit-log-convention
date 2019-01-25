@@ -113,6 +113,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :heavy_plus_sign:          | `:heavy_plus_sign:`          | -                  | **add** files, dependencies, ... |
 | :heavy_minus_sign:         | `:heavy_minus_sign:`         | -                  | **remove** files, dependencies, ... |
 | :on:                       | `:on:`                       | -                  | **enable** feature and something ... |
+| :truck:                    | `:truck:`                    | `move`             | Move/rename files, repository, ... |
 
 
 Ask to Be [Creative](http://www.emoji-cheat-sheet.com/)!
