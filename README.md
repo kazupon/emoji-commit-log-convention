@@ -28,7 +28,7 @@ All Commit Message Format **MUST** meet this Text Format:
 | `breaking`    | for backwards-incompatible enhancement commit |
 | `deprecated`  | for deprecated feature commit |
 | `i18n`        | for i18n (internationalization) commit |
-| `a11y`        | for a11t (accessibility) commit |
+| `a11y`        | for a11y (accessibility) commit |
 | `refactor`    | for refactoring commit |
 | `docs`        | for documentation commit |
 | `example`    | for example code commit |
