@@ -111,6 +111,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :pushpin:                  | `:pushpin:`                  | `deps`             | pin **dependencies** |
 | :wrench:                   | `:wrench:`                   | `config`           | update **configuration** |
 | :package:                  | `:package:`                  | `build`            | **packaging** or **bundling** or **building** |
+| :whale:                    | `:whale:`                    | `build`            | Dockerfile |
 | :hatching_chick:           | `:hatching_chick:`           | `release`          | **initial** commit |
 | :confetti_ball:            | `:confetti_ball:`            | `release`          | release **major** version |
 | :tada:                     | `:tada:`                     | `release`          | release **minor** version |
