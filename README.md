@@ -85,7 +85,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 |:-----------------------------:|---------------------------------|--------------------|-------------|
 | :star:                     | `:star:`                     | `new` or `feature` | add **new feature** |
 | :bug:                      | `:bug:`                      | `bug`              | fix **bug** issue |
-| :ambulance:                | `:ambulance:`                | `bug`              | ciritial hotfix **bug** issue |
+| :ambulance:                | `:ambulance:`                | `bug`              | critical hotfix **bug** issue |
 | :lock:                     | `:lock:`                     | `security`         | fix **security** issue |
 | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` | `performance`      | fix **performance** issue |
 | :zap:                      | `:zap:`                      | `improvement`      | update **backwards-compatible** feature |
