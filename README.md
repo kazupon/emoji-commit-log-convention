@@ -84,6 +84,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | Emoji                         | Raw Emoji Code                  | Type               | Description |
 |:-----------------------------:|---------------------------------|--------------------|-------------|
 | :star:                     | `:star:`                     | `new` or `feature` | add **new feature** |
+| :pray:                     | `:pray:`                     | `new` or `feature` | add experimental feature |
 | :bug:                      | `:bug:`                      | `bug`              | fix **bug** issue |
 | :ambulance:                | `:ambulance:`                | `bug`              | critical hotfix **bug** issue |
 | :lock:                     | `:lock:`                     | `security`         | fix **security** issue |
