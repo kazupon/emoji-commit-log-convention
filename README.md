@@ -105,6 +105,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :twisted_rightwards_arrows:| `:twisted_rightwards_arrows:`| `update`           | merge **conflict resolution** |
 | :heavy_plus_sign:          | `:heavy_plus_sign:`          | `update`           | **add** files, dependencies, ... |
 | :heavy_minus_sign:         | `:heavy_minus_sign:`         | `update`           | **remove** files, dependencies, ... |
+| :wastebasket:              | `:wastebasket:`              | `update`           | **depracate** code |
 | :on:                       | `:on:`                       | `update`           | **enable** feature and something ... |
 | :arrow_up:                 | `:arrow_up:`                 | `deps`             | upgrade **dependencies** |
 | :arrow_down:               | `:arrow_down:`               | `deps`             | downgrade **dependencies** |
